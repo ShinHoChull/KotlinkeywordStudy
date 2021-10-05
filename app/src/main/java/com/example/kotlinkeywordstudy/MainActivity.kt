@@ -28,7 +28,14 @@ class MainActivity : AppCompatActivity() {
         //InlineKeyword()
         //NoInLineKeyword()
         //CrossLineKeyword(txt1)
-        ReiFiedKeyword(txt1)
+        //ReiFiedKeyword(txt1)
+
+
+        //Get_Set()
+        Other()
+
+
+
     }
 
 }
